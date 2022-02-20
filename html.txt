@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KEERTHI</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="./assignment.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Chela+One&family=Fredoka+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;800&family=Pattaya&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@100;800&family=Pattaya&display=swap" rel="stylesheet">
+    <link rel="icon" href="https://i.pinimg.com/originals/60/17/03/6017037e430534b5cbc0ffbd7a1e7b52.jpg" type="image">
+</head>
+<body>
+    <!--<h1 class=fancy>Keerthi</h1>-->
+    <script src="index.js">
+    </script>
+
+
+<div class="row">
+    <div class="column" style="background-color:#4285F4;width: 33%;float:left;">
+      <img style="height:250px;width: 402px;" src="data:image/jpeg;base64,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">
+     <h2 style="font-family: 'Chela One', cursive;
+     font-family: 'Fredoka One', cursive;font-size: 70px;margin-left: 25px;color: white;">Keerthi</h2>
+    <h3 style="margin-left:25px;font-family: 'Chela One', cursive;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Montserrat', sans-serif;color: white;">STUDENT</h3>
+    <hr class="linebelowstudent">
+    <br>
+    <div class="row2">
+        <div class="column2" style="width: 35%;float:left;background-image: url('madhavleftbg.jpg');">
+   <center><img id="aseb" style="height: 85px;width:90px;margin-top: 30px;" src="madhavhouselogo.png"></center>
+   <center><img id="aseb" style="height: 90px;width:90px;margin-top: 50px;"src="madhavphonelogo.jpg"></center> 
+   <center><img id="aseb" style="height: 90px;width:90px;margin-top: 30px;"src="madhavemaillogo.jpg"></center> 
+</div>
+<div class="column2" style="background-image: url('madhavrightbg.jpg');width: 65%;float:right;">
+<center><h4 style="margin-top: 10px;">8-137,
+  OPPOSITE MASJID,
+  <br>VEERAPURAM, PIDUGURALLA.</h4></center>
+<center><h3 style="margin-top: 55px;"><u>+917032549129
+</u></h3></center>
+<center><h3 style="margin-top: 95px;font-size: 25px;">keerthi.20bci7176@<br>vitap.ac.in</h4></center>
+
+</div>
+
+<center><h2 style="margin-top: 100px;color:white;"><b><i style="margin-top: 30px;">SOCIAL MEDIA</i></b></h2></center>
+<a target="_blank" href="https://www.instagram.com/_.KEERTHICHOWDARY/"><img id="aseb" style="margin-top: 5px;height:75px;width:75px;"src="https://png.pngtree.com/element_our/md/20180518/md_5aff6089d3e02.jpg"><i style="font-size: 25px;font-family: Georgia, 'Times New Roman', Times, serif;margin-left: 10px;margin-top: 30px;"> _.KEERTHICHOWDARY
+</i></a>
+<hr class="linebelowstudent">
+
+</div>
+<h2 style="font-family: 'Chela One', cursive;
+font-family: 'Fredoka One', cursive;font-size: 60px;margin-left: 25px;color: white;">Capabilities:</h2>
+<h2 style="margin-left: 25px;">HTML</h2>
+<div class="w3-light-grey" style="border-radius: 40px;margin-left: 20px;margin-right: 10px;">
+    <div class="w3-container w3-green w3-center" style="width: 90%;border-radius: 40px;">90%</div>
+  </div><br>
+  <h2 style="margin-left: 25px;">JavaScript</h2>
+<div class="w3-light-grey" style="border-radius: 40px;margin-left: 20px;margin-right: 10px;">
+    <div class="w3-container w3-red w3-center" style="width: 15%;border-radius: 40px;">10%</div>
+  </div><br>
+ <h2 style="margin-left: 25px;">CSS</h2>
+  <div class="w3-light-grey" style="border-radius: 40px;margin-left: 20px;margin-right: 10px;">
+      <div class="w3-container w3-orange w3-center" style="width: 60%;border-radius: 40px;">60%</div>
+    </div><br>
+    <h2 style="margin-left: 25px;">Mathematics</h2>
+  <div class="w3-light-grey" style="border-radius: 40px;margin-left: 20px;margin-right: 10px;">
+      <div class="w3-container w3-green w3-center" style="width: 92%;border-radius: 40px;">92%</div>
+    </div><br>
+    <h2 style="margin-left: 25px;">Rubik's Cubes</h2>
+  <div class="w3-light-grey" style="border-radius: 40px;margin-left: 20px;margin-right: 10px;">
+      <div class="w3-container w3-light-blue w3-center" style="width: 81%;border-radius: 40px;">81%</div>
+    </div><br>
+    <h2 style="margin-left: 25px;">AUTOCAD</h2>
+  <div class="w3-light-grey" style="border-radius: 40px;margin-left: 20px;margin-right: 10px;">
+      <div class="w3-container w3-yellow w3-center" style="width: 56%;border-radius: 40px;">56%</div>
+    </div><br>
+    <h2 style="margin-left: 25px;">C Programming</h2>
+<div class="w3-light-grey" style="border-radius: 40px;margin-left: 20px;margin-right: 10px;">
+    <div class="w3-container w3-green w3-center" style="width: 85%;border-radius: 40px;">85%</div>
+  </div><br>
+  <h2 style="margin-left: 25px;">Chess</h2>
+  <div class="w3-light-grey" style="border-radius: 40px;margin-left: 20px;margin-right: 10px;">
+      <div class="w3-container w3-pink w3-center" style="width: 85%;border-radius: 40px;">80%</div>
+    </div><br>
+    </div>
+
+    <div class="column" style="background-color:white;width: 67%;float:right;">
+      <h2 style="color:black;margin-top: 25px;margin-left: 25px;font-size: 60px;font-family: 'Chela One', cursive;
+      font-family: 'Fredoka One', cursive;color:#4285F4;">ABOUT ME</h2>
+        <p style="color: black;margin-top: 25px;margin-left: 25px;font-size: 20px;">KEERTHI SUNKARA 
+          DOB:- 15-03-2003
+          D/O OF VENKATA RATNAM SUNKARA AND LAKSHMI PRASANTHI SUNKARA
+          PIDUGURALLA, GUNTUR DIST..</p>
+        <h2 style="color:black;margin-top: 25px;margin-left: 25px;font-size: 60px;font-family: 'Chela One', cursive;
+      font-family: 'Fredoka One', cursive;color:#4285F4;">Education</h2>
+        <div class="vl" style="color: black;margin-left: 25px;margin-right: 10px;"><h2 style="font-family:Georgia, 'Times New Roman', Times, serif;margin-left: 25px;">2010-2014<br> GAUTAMI VIDYA KSHETRA, HYDERABAD.
+        </h2>
+    <p style="font-size: 20px;font-family: cursive;margin-left: 25px;">A School That Inspires.... 32 years of Academic Excellence 8 ACRE LUSH GREEN SAFE CAMPUS
+
+      Vision: We are dedicated in shaping the leaders of the future equipped with state-of-the-art, technology knowledge, moral and ethical values
+
+      Mission: To fulfil the vision we prepare our students to develop a sense of integrity, ethics, honesty and higher-order skills like peacemaking skills and leadership abilities. We provide the environment of shared values of non-violence, equality and unity by using a combination of the core knowledge curriculum</p>
+    </div>
+
+        <div class="al" style="color: black;margin-left: 25px;margin-right: 10px;margin-top: 0px;"><h2 style="font-family:Georgia, 'Times New Roman', Times, serif;margin-left: 25px;margin-top: 0px;">2014-2018<br>Bharatiya Vidya Bhavan's International Residential Public School,Bhimavaram,<br>Bhimavaram
+        </h2>
+        <p style="font-size: 20px;font-family: cursive;margin-left: 25px;">Bhavan's Vidyashram, Bhimavaram was started as the first and the foremost project of Bhavan's Bhimavaram Kendra, on an auspicious day of 15th August 1983. Its sponsoring body "The West Godavari Rice Miller's District Welfare Fund society" came forward to provide all physical infrastructural facilities. </p></div>
+        <div class="bl" style="color: black;margin-left: 25px;margin-right: 10px;"><h2 style="font-family:Georgia, 'Times New Roman', Times, serif;margin-left: 25px;margin-top: 0px;">2018-2020<br>VIGNAN JUNIOR COLLEGE, <br>GUNTUR.
+        </h2>
+    <p style="font-size: 20px;font-family: cursive;margin-left: 25px;">Vignan's Foundation for Science, Technology and Research University is an deemed University in Andhra Pradesh, India, offering graduate (Masters) under-graduate (Bachelors) and PhD courses in Engineering and Technology. It is located at Vadlamudi, Guntur, Andhra Pradesh<br><br>Scored 94.4% in Board exams<br>Achieved 94 percentile in JEE MAINS<br>9000 rank in EAMCET of both AP & TS</p>
+    </div>
+    <div class="ml" style="color: black;margin-left: 25px;margin-right: 10px;"><h2 style="font-family:Georgia, 'Times New Roman', Times, serif;margin-left: 25px;margin-top: 0px;">2020-present<br>Vellore institute of technology,<br> Amaravati
+    </h2>
+<p style="font-size: 20px;font-family: cursive;margin-left: 25px;">Established in 2017, VIT AP University (also known as VIT Amaravati or VIT-AP or VIT University Amaravati) is one of the four campuses under VIT Vellore University started by VIT Group of Institutions. </p>
+<p style="font-size: 20px;font-family: cursive;margin-left: 25px;"> The Federation of Indian Chambers of Commerce and Industry (FICCI), Industry Consortium of India, awarded VIT as ‘Excellence in Faculty of the year 2017’ and ‘The University of the Year 2016’ in India.</p>
+</div>
+<h2 style="color: #4285F4;font-family: 'Chela One', cursive;
+font-family: 'Fredoka One', cursive;font-size: 60px;margin-left: 25px;">Interests:</h2>
+<ul style="margin-left:50px ;list-style:square;font-family: cursive;font-size: 25px;">
+  <li>
+    Singing
+  </li>
+  <li>
+    Exploring new things
+  </li>
+  <li>
+    Travelling
+  </li>
+  <li>
+    Playing Badminton
+  </li>
+</ul>
+
+    </div>
+     <footer>
+      <p>Developed by Keerthi and managed by CSI Chapter VIT AP </p>
+	</footer>
+
+</body>
+</html>
